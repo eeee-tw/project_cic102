@@ -1,6 +1,6 @@
 #!/etc/bash
 
-read -p "請輸入你的名字:" varN
+read -p "請輸入你哥的名字:" varN
 
 echo "閃耀魔眼出現了！"
 echo "快使用星爆氣流斬！"
